@@ -20,7 +20,7 @@ $ npm install -g oclif-demo
 $ oclif-demo COMMAND
 running command...
 $ oclif-demo (--version)
-oclif-demo/0.0.0 darwin-arm64 node-v22.14.0
+oclif-demo/0.0.1 darwin-arm64 node-v22.14.0
 $ oclif-demo --help [COMMAND]
 USAGE
   $ oclif-demo COMMAND
@@ -65,7 +65,7 @@ EXAMPLES
   hello friend from oclif! (./src/commands/hello/index.ts)
 ```
 
-_See code: [src/commands/hello/index.ts](https://github.com/edezekiel/oclif-demo/blob/v0.0.0/src/commands/hello/index.ts)_
+_See code: [src/commands/hello/index.ts](https://github.com/edezekiel/oclif-demo/blob/v0.0.1/src/commands/hello/index.ts)_
 
 ## `oclif-demo hello world`
 
@@ -83,7 +83,7 @@ EXAMPLES
   hello world! (./src/commands/hello/world.ts)
 ```
 
-_See code: [src/commands/hello/world.ts](https://github.com/edezekiel/oclif-demo/blob/v0.0.0/src/commands/hello/world.ts)_
+_See code: [src/commands/hello/world.ts](https://github.com/edezekiel/oclif-demo/blob/v0.0.1/src/commands/hello/world.ts)_
 
 ## `oclif-demo help [COMMAND]`
 

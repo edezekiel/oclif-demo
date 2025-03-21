@@ -1,7 +1,7 @@
 {
   "name": "oclif-demo",
   "description": "A new CLI generated with oclif",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Edward Ezekiel",
   "bin": {
     "oclif-demo": "./bin/run.js"
